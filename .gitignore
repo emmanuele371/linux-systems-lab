@@ -1,0 +1,18 @@
+*.o
+*.out
+*.exe
+*.log
+.DS_Store
+__pycache__/
+.vscode/
+.idea/
+*.rar
+
+# compiled binaries
+append
+attrib
+size
+ln
+sum
+foo
+bar
