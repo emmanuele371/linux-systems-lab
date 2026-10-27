@@ -9,7 +9,7 @@ __pycache__/
 *.rar
 
 # compiled binaries
-append
+/file-io/append/append
 attrib
 size
 ln
